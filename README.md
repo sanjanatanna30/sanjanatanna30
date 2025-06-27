@@ -10,7 +10,6 @@
 
 - 🔄 Always upgrading **my tech stack and improving on my Skills.**
 
-- ✨ Clean code **is my coding mantra.**
 
 - ⚡ Fun fact: **Code, coffee, calm — my daily ritual.**
 
