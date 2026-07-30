@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjana Tanna</h1>
 <h3 align="center">A passionate developer and Technology Enthusiast from India</h3>
-<img align="right" alt="coding"  width="350" src="https://media1.tenor.com/m/trwMzHIDQlQAAAAC/hack-hacking.gif"><br>
+<!-- <img align="right" alt="coding"  width="350" src="https://media1.tenor.com/m/trwMzHIDQlQAAAAC/hack-hacking.gif"><br> -->
 
 - 🔭 I’m currently working on **more about Web Development and Building Projects.**
 
