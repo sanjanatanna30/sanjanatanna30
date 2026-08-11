@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sanjana Tanna</h1>
-<h3 align="center">A passionate developer and Technology Enthusiast from India</h3>
+<h3 align="center">IT Graduate | Aspiring Software Developer | Web & Python Developer</h3>
 <!-- <img align="right" alt="coding"  width="350" src="https://media1.tenor.com/m/trwMzHIDQlQAAAAC/hack-hacking.gif"><br> -->
 
-- 🔭 I’m currently working on **more about Web Development and Building Projects.**
+- 🎓 IT Graduate with a strong interest in **Software and Web Development.**
 
-- 🌐 Exploring **How AI can be applied to real-world web applications and full-stack solutions.**
+- 💻 Passionate about building **clean, efficient, and user-friendly applications.**
 
-- 📚 I’m currently learning **DSA to sharpen my logic.**
+- 🌱 Always interested in **learning new technologies and improving my technical skills.**
 
-- 🔄 Always upgrading **my tech stack and improving on my Skills.**
+- 🧩 Enjoy solving problems and **turning ideas into practical solutions.**
 
-
-- ⚡ Fun fact: **Code, coffee, calm — my daily ritual.**
+- 🚀 **Looking for opportunities to grow as a Software Developer, Python Developer, or Web Developer.**
 
 -  ✉ How to reach me [sanjanatanna305@gmail.com](sanjanatanna305@gmail.com)
   
