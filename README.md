@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sanjana Tanna</h1>
+<h1 align="center">👋 Hi, I'm Sanjana Tanna</h1>
 <h3 align="center">IT Graduate | Aspiring Software Developer | Web & Python Developer</h3>
 <!-- <img align="right" alt="coding"  width="350" src="https://media1.tenor.com/m/trwMzHIDQlQAAAAC/hack-hacking.gif"><br> -->
 
-- 🎓 IT Graduate with a strong interest in **Software and Web Development.**
+- 🎓 IT Graduate with a strong interest in **software and web development.**
 
 - 💻 Passionate about building **clean, efficient, and user-friendly applications.**
 
-- 🌱 Always interested in **learning new technologies and improving my technical skills.**
+- 🌱 Passionate about **learning new technologies and improving my technical skills.**
 
 - 🧩 Enjoy solving problems and **turning ideas into practical solutions.**
 
