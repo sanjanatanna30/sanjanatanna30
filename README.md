@@ -10,9 +10,7 @@
 
 - 🧩 Enjoy solving problems and **turning ideas into practical solutions.**
 
-- 🚀 **Looking for opportunities to grow as a Software Developer, Python Developer, or Web Developer.**
-
--  ✉ How to reach me [sanjanatanna305@gmail.com](sanjanatanna305@gmail.com)
+- 🚀 **Currently looking for opportunities as a Software Developer, Python Developer, or Web Developer.**
   
   <br>
 
