@@ -1,17 +1,14 @@
   <!-- <h1 align="center">👋 Hi, I'm Sanjana Tanna</h1>
 <h3 align="center">IT Graduate | Aspiring Software Developer | Web & Python Developer</h3>
 <br> -->
-<h1>
-
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=36&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=900&height=80&lines=Hi+%F0%9F%91%8B%2C+I%27m+Sanjana+Tanna;Software+Developer;AI+%26+Web+Technologies;Always+Learning+New+Things!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&weight=900&size=38&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=90&lines=Hi+%F0%9F%91%8B%2C+I%27m+Sanjana+Tanna;Software+Developer;AI+%26+Web+Technologies;Always+Learning+New+Things!" alt="Typing Animation" />
 </h1>
 
-
-
-
-
+<p align="center">
+  Passionate about building clean, efficient, and user-friendly applications.
+</p>
 
 
 <!-- <img align="right" alt="coding"  width="350" src="https://media1.tenor.com/m/trwMzHIDQlQAAAAC/hack-hacking.gif"><br> -->
