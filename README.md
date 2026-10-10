@@ -3,7 +3,7 @@
 <br> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi 👋, I'm Sanjana Tanna ;Python+Developer;Web+Developer;AI+%26+Web+Technologies;Always+Learning+New+Things!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sanjana+Tanna;Software+Developer;AI+%26+Web+Technologies;Always+Learning+New+Things!" alt="Typing animation" />
 </p>
 
 <!-- <img align="right" alt="coding"  width="350" src="https://media1.tenor.com/m/trwMzHIDQlQAAAAC/hack-hacking.gif"><br> -->
