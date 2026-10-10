@@ -2,19 +2,26 @@
 <h3 align="center">IT Graduate | Aspiring Software Developer | Web & Python Developer</h3>
 <br> -->
 
-<h1 align="center">Hi 👋, I'm Sanjana Tanna</h1>
 
-<h3 align="center">
-  IT Graduate | Aspiring Software Developer
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Python+Developer;Web+Developer;AI+%26+Web+Technologies;Always+Learning+New+Things!" alt="Typing animation" />
-</p>
-
-<p align="center">
-  Passionate about building clean, efficient, and user-friendly applications.
-</p>
+<table>
+  <tr>
+    <td width="180" align="center">
+      <img
+        src="https://github.com/sanjanatanna30.png"
+        width="130"
+        style="border-radius: 50%;"
+        alt="Sanjana Tanna"
+      />
+    </td>
+    <td align="left">
+      <h2>Hi 👋, I'm Sanjana Tanna</h2>
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Arial&size=22&duration=2000&pause=700&color=000000&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanjana+Tanna;Software+Developer;AI+%26+Web+Technologies;Always+Learning+New+Things!"
+        alt="Typing animation"
+      />
+    </td>
+  </tr>
+</table>
 
 <!-- <img align="right" alt="coding"  width="350" src="https://media1.tenor.com/m/trwMzHIDQlQAAAAC/hack-hacking.gif"><br> -->
 
