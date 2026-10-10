@@ -2,10 +2,13 @@
 <h3 align="center">IT Graduate | Aspiring Software Developer | Web & Python Developer</h3>
 <br> -->
 <h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sanjana+Tanna;Software+Developer;AI+%26+Web+Technologies;Always+Learning+New+Things!" alt="Typing animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=900&height=80&lines=Hi+%F0%9F%91%8B%2C+I%27m+Sanjana+Tanna;Software+Developer;AI+%26+Web+Technologies;Always+Learning+New+Things!"
+    alt="Typing animation"
+/>
 </p>
-</h1>
 
 <!-- <img align="right" alt="coding"  width="350" src="https://media1.tenor.com/m/trwMzHIDQlQAAAAC/hack-hacking.gif"><br> -->
 
