@@ -7,7 +7,6 @@
 </h1> -->
 
 
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Arial+Black&weight=900&size=38&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=90&lines=Hi+%F0%9F%91%8B%2C+I%27m+Sanjana+Tanna;%F0%9F%92%BB+Software+Developer;%F0%9F%A4%96+AI+%26+Web+Technologies;%F0%9F%93%9A+Always+Learning+New+Things%21" alt="Typing Animation" />
 </h1>
